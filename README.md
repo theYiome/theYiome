@@ -1,5 +1,3 @@
-- 👋 @theYiome
-- 👀 I’m interested in web and frontend technologies.
-- 🧑‍💻 So far I have worked with Typescript, React, Electron and Rust.
-- 🌱 I’m currently learning Next.js and Angular.
-- 📫 Email me at <yiome@outlook.com>
+@theYiome
+So far I have worked with Typescript, React, Electron and Rust.
+Email me at <yiome@outlook.com>
