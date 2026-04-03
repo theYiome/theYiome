@@ -1,3 +1,3 @@
-So far I have worked with Typescript, React, Electron and Rust.
+Typescript enjoyer.
 
 Email me at <yiome@outlook.com>
